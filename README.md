@@ -1,4 +1,4 @@
-## Hello there 🧔
+## Hello there ☬
 I'm [Cristian](https://christian-stefan.github.io/Portfolio/), a junior machine learning engineer currently based in the Netherlands.
 
 I build machine learning/deep-learning models while striving to maintain a balanced trade-off between performance and viability ("boring" aspects such as inference speed, decision-making transparency, and memory footprint all do count as vital to me).
